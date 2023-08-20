@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR Globo SP HD
+http://1tv41.icu:8080/4qUDXt/560526/21020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: SBT HD
+http://1tv41.icu:8080/4qUDXt/560526/20978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: RECORD HD
+http://1tv41.icu:8080/4qUDXt/560526/164941
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: RECORD NEWS
+http://1tv41.icu:8080/4qUDXt/560526/164942
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: GLOBO HD
+http://1tv41.icu:8080/4qUDXt/560526/164943
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: GLOBO MINAS HD
+http://1tv41.icu:8080/4qUDXt/560526/164944
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: GLOBO NEWS HD
+http://1tv41.icu:8080/4qUDXt/560526/164945
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: HBO HD
+http://1tv41.icu:8080/4qUDXt/560526/164950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: HBO FAMILY HD
+http://1tv41.icu:8080/4qUDXt/560526/164951
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR: HBO 2 HD
+http://1tv41.icu:8080/4qUDXt/560526/164952
+
+
